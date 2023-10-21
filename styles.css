@@ -1,10 +1,10 @@
 :root {
-  --cor-de-fundo: #00030c;
+  --cor-de-fundo: hwb(225 0% 95%) 0% 95%);
   --cor-primaria: #ffffff;
   --cor-secundaria: #c0c0c0;
   --cor-terciaria: #167bf7;
   --fonte-principal: "Inter";
-  --efeito-botao: #3c92fa
+  --efeito-botao: #9b6bf5;
 }
 
 * {
